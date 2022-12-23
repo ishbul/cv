@@ -1,0 +1,30 @@
+body {
+    background-color: #F3EFE0;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color:#434242;
+    width: 5%;
+  }
+  h1, h3 {
+    color: #22A39F;
+    text-align: center;
+  }
+  a {
+    text-decoration: none;
+    color: #22A39F
+  }
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  form {
+    text-align: center;
+  }
+  div{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+  }
